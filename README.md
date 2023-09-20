@@ -2,6 +2,7 @@
 
 Mobile code challenge app showcasing the Rick and Morty API.
 
+## Ariel Berguño
 - [LinkedIn profile](https://www.linkedin.com/in/aberguno/)
 - Email: aberguno@gmail.com
 - Movil: (+34)627175184

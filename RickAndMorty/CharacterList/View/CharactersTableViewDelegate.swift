@@ -16,13 +16,7 @@ final class CharactersTableViewDelegate: NSObject, UITableViewDelegate {
     private(set) var isLoading: Bool = false
     private var cancellables = Set<AnyCancellable>()
 
-    private(set) var cellViewModels: [CharacterTableViewCellViewModel] = [] {
-        didSet {
-//            DispatchQueue.main.async { [weak self] in
-//                self?.tableView.reloadData()
-//            }
-        }
-    }
+    private(set) var cellViewModels: [CharacterTableViewCellViewModel] = []
 
     init(tableView: UITableView, isLoading: Bool = false, cellViewModels: [CharacterTableViewCellViewModel] = []) {
         self.tableView = tableView

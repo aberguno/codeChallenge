@@ -26,8 +26,6 @@ class CharacterTableViewCell: UITableViewCell {
         let imageView = UIImageView()
         imageView.translatesAutoresizingMaskIntoConstraints = false
         imageView.contentMode = .scaleAspectFill
-//        imageView.setContentCompressionResistancePriority(.defaultLow, for: .horizontal)
-//        imageView.setContentCompressionResistancePriority(.defaultLow, for: .vertical)
         return imageView
     }()
     

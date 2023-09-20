@@ -10,7 +10,6 @@ import Foundation
 import UIKit
 
 class CharactersListTableView: UIView {
-    // @Published var showErrorMessage: String?
     let showErrorMessage = PassthroughSubject<String, Never>()
     let didSelectCharacter = PassthroughSubject<CharacterModel, Never>()
 

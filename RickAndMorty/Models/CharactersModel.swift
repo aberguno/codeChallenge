@@ -7,7 +7,6 @@
 
 import Foundation
 
-// extension API.Types.Response {
 struct CharacterResponseModel: Codable {
     let info: InfoModel
     let results: [CharacterModel]
@@ -34,5 +33,3 @@ struct CharacterModel: Codable {
     let url: String
     let created: String
 }
-
-// }

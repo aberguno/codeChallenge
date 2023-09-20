@@ -22,4 +22,6 @@ Mobile code challenge app showcasing the Rick and Morty API.
 1. Characters
 2. Character detail, with extra info for location
 
-![Cover](https://github.com/arielBerguno/codeChallenge/assets/84141805/288191c4-f794-43ca-8440-a8e009963d35)![Cover2](https://github.com/arielBerguno/codeChallenge/assets/84141805/9496d9fd-66f6-4f31-909c-d529444daf91)
+![image](https://github.com/aberguno/codeChallenge/assets/1530378/931400b1-6535-4dd4-b1e4-255e6696346e)
+![image](https://github.com/aberguno/codeChallenge/assets/1530378/de0f9d7b-8e3b-4dc6-9b2f-a536603a6054)
+![Cover2](https://github.com/aberguno/codeChallenge/assets/1530378/b2aa380f-02d5-4224-8236-d27e3065a9c8)
